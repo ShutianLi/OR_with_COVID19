@@ -1,4 +1,8 @@
-## Home healthcare 
+## healthcare 
++ Personnel scheduling during Covid-19 pandemic https://link.springer.com/article/10.1007/s11590-020-01648-2 
++ A decision support system for scheduling the shifts of physicians during COVID-19 pandemic https://www.sciencedirect.com/science/article/pii/S0360835220305684 
++ 
+ 
  
 ## Supply chain Engineering 
 + Impacts of epidemic outbreaks on supply chains: mapping a research agenda amid the COVID-19 pandemic through a structured literature review 
